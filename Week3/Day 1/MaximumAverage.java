@@ -43,7 +43,7 @@ public class MaximumAverage {
 				
 			}
 			
-			return maxSum/2;
+			return maxSum/k;
 			
 		}
 
